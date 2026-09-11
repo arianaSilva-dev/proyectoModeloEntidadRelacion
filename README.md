@@ -17,7 +17,7 @@ Trabajo presentado por :
 ℹ️ texto texto texto -> pequeña desc 
 
 - [Control de versiones con Git y GitHub]() **Inicio de trabajo**
-- [El sistema gestor en un contenedor: Docker]() 
+- [El sistema gestor en un contenedor: Docker](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio2) 
 - [Investigación: qué es una base de datos]() 
 - [Estado del arte: tres artículos científicos]() **Elaboración de exposición**
 - [Caso de estudio y modelo entidad-relación]() **Propuesta de proyecto y elaboración**
