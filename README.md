@@ -14,12 +14,13 @@ Trabajo presentado por :
 2026630212 | Ramírez Gonzáles José Issac 
 
 ## Indice 
-ℹ️ texto texto texto -> pequeña desc 
+ℹ️ Descripción general de los cinco ejercicios que componen la arquitectura y diseño de la base de datos.
 
-- [Control de versiones con Git y GitHub]() **Inicio de trabajo**
+- [Control de versiones con Git y GitHub](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio1) **Inicio de trabajo**
 - [El sistema gestor en un contenedor: Docker](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio2) 
-- [Investigación: qué es una base de datos]() 
-- [Estado del arte: tres artículos científicos]() **Elaboración de exposición**
-- [Caso de estudio y modelo entidad-relación]() **Propuesta de proyecto y elaboración**
+- [Investigación: qué es una base de datos](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio3) 
+- [Estado del arte: tres artículos científicos](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio4) **Elaboración de exposición**
+- [Caso de estudio y modelo entidad-relación](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio5_CFE) **Propuesta de proyecto y elaboración**
+> *⚡💡 Plataforma de Monitoreo de Infraestructura Eléctrica y Gestión de Reportes de Apagones (CFE).* Un sistema para mapear la infraestructura urbana de la CDMX, correlacionar transformadores con fallas ciudadanas y gestionar cuadrillas de mantenimiento mediante consultas espaciales.
 
 
