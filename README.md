@@ -21,6 +21,6 @@ Trabajo presentado por :
 - [Investigación: qué es una base de datos](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio3) 
 - [Estado del arte: tres artículos científicos](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio4) **Elaboración de exposición**
 - [Caso de estudio y modelo entidad-relación](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio5_CFE) **Propuesta de proyecto y elaboración**
-> *⚡💡 Plataforma de Monitoreo de Infraestructura Eléctrica y Gestión de Reportes de Apagones (CFE).* Un sistema para mapear la infraestructura urbana de la CDMX, correlacionar transformadores con fallas ciudadanas y gestionar cuadrillas de mantenimiento mediante consultas espaciales.
+> *⚡💡 Plataforma de Monitoreo de Infraestructura Eléctrica y Prevención de Apagones (CFE).* Un sistema para mapear la infraestructura urbana de la CDMX, correlacionar transformadores con fallas ciudadanas y gestionar cuadrillas de mantenimiento mediante consultas espaciales.
 
 
