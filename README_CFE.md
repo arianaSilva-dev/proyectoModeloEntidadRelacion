@@ -18,8 +18,11 @@ Este proyecto implementa un modelo de datos con el fin de automatizar y dar solu
 * **Documentación:** GitHub
 
 ## 📂 Estructura del Repositorio
-> Distribución del código DDL, scripts de prueba y documentación del proyecto.
+* **ejercicio5_CFE**
+  * **README_CFE.md**: Documentación principal y explicación general del proyecto.
+* **CFE_img**
+  * Contiene las imágenes y recursos visuales utilizados en la redacción de la documentación.
 
 ## 🚀 Instrucciones Rápidas
 > Cómo levantar el proyecto. 
-(Próximamente se agregarán los comandos de Docker y los scripts de inicialización SQL)
+(Próximamente agregaremos los comandos de Docker y los scripts de inicialización SQL)
