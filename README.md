@@ -16,10 +16,10 @@ Trabajo presentado por :
 ## Indice 
 ℹ️ texto texto texto -> pequeña desc 
 
-- [Control de versiones con Git y GitHub]() **Inicio de trabajo**
-- [El sistema gestor en un contenedor: Docker]() 
-- [Investigación: qué es una base de datos]() 
-- [Estado del arte: tres artículos científicos]() **Elaboración de exposición**
-- [Caso de estudio y modelo entidad-relación]() **Propuesta de proyecto y elaboración**
+- [Control de versiones con Git y GitHub](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio1) **Inicio de trabajo**
+- [El sistema gestor en un contenedor: Docker](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio2) 
+- [Investigación: qué es una base de datos](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio3) 
+- [Estado del arte: tres artículos científicos](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio4) **Elaboración de exposición**
+- [Caso de estudio y modelo entidad-relación](https://github.com/arianaSilva-dev/proyectoModeloEntidadRelacion/tree/ejercicio5_CFE) **Propuesta de proyecto y elaboración**
 
 
